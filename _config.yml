@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "YI WANG"
-  avatar           : "/docs/assets/images/mypicture.png"
+  avatar           : "/assets/images/mypicture.png"
   bio              : "Robotics Researcher"
   location         : "1A Emerson Rd, Durham, NH"
   email            : "yw1055@usnh.edu"
