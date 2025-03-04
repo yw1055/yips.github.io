@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "YI WANG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"I am an **amazing** person."
-  location         : "1A Emerson Rd, Durham, New Hampshire"
+  bio              : "Robotics Researcher"
+  location         : "1A Emerson Rd, Durham, NH"
   email            :
   links:
     - label: "Email"
