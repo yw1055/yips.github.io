@@ -21,7 +21,7 @@ title                    : "Yi's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YI WANG"
-description              : "ARobtics Researcher"
+description              : "Robtics Researcher"
 url                      : "https://yips.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
