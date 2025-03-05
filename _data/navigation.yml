@@ -7,7 +7,9 @@ main:
   - title: "Publications"
     url: /publications/ 
   - title: "CV"
-    url: /cv/ 
+    url: /cv/
+  - title: "Professional Experience"
+    url: /pex/  
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
